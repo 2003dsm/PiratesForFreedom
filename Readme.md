@@ -1,22 +1,23 @@
-Para abrir el juego ejecutar el archivo 'pirates_for_freedom.exe' dentro de la carpeta 'Ejecutable'.
+To open the game run the file ‘pirates_for_freedom.exe’ inside the ‘Executable’ folder.
 
-controles:
-click izquierdo para disparar los cañones.
-pulsar W una vez para aumentar velocidad en 1 nivel (3 niveles).
-pulsar S una vez para disminuir velocidad (3 niveles).
-velocidad: nivel 1 = parado, nivel 2 = lento, nivel 3 = rápido.
-mantener A para girar hacia la izquierda.
-mantener D para girar hacia la derecha.
-mantener click derecho para alejar cámara.
-mantener click derecho y pulsar click izquierdo para disparar el mortero.
-mantener rueda del ratón para ver la brújula.
+Controls:
+left click to fire the cannons.
+press W once to increase speed by 1 level (3 levels).
+press S once to decrease speed (3 levels).
+speed: level 1 = stop, level 2 = slow, level 3 = fast.
+hold A to turn left.
+hold D to turn right.
+hold right click to zoom out camera.
+hold right click and left click to fire the mortar.
+hold mouse wheel to see the compass.
 
-truco para acelerar el juego:
-mantener 'espacio' y pulsar B para añadir 1000 de cada material al inventario.
+trick to speed up the game:
+hold ‘space’ and press B to add 1000 of each material to inventory.
 
 
-objetivo:
-El objetivo es conquistar las 2 fortalezas pero después de hacerlo puedes seguir jugando y mejorar el barco.
+objective:
+The objective is to conquer the 2 fortresses but after doing so you can continue playing and upgrade the ship.
+
 
 Link to Google Drive:
 
