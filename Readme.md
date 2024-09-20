@@ -1,6 +1,9 @@
 To open the game run the file ‘pirates_for_freedom.exe’ inside the ‘Executable’ folder.
 
+
+
 Controls:
+
 left click to fire the cannons.
 
 press W once to increase speed by 1 level (3 levels).
@@ -18,6 +21,8 @@ hold right click to zoom out camera.
 hold right click and left click to fire the mortar.
 
 hold mouse wheel to see the compass.
+
+
 
 trick to speed up the game:
 hold ‘space’ and press B to add 1000 of each material to inventory.
